@@ -1923,7 +1923,7 @@ CODE:403-FORBIDDEN
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://www.open-epg.com/generate/sAS9EFM9eZ.xml.gz, https://www.open-epg.com/generate/8J4xJsVwWp.xml, https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml" billed-msg="Pertanyaan Atau Langganan?? Chat Admin Melalui Whatsapp Atau Telegram Di No 011 3109 2605"
 
 
-#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",101 TV1
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",101 TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://tunebox.space/‎tv1.m3u
@@ -3250,7 +3250,7 @@ https://tunebox.space/‎premiersport.mpd
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/entertainmentlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -3487,10 +3487,8 @@ https://fl3.moveonjoy.com/Aspire/index.m3u8
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 
-#EXTINF:-1 tvg-name="FOX SOUL" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/foxsoul.png" group-title="ENTERTAINMENT",FOX SOUL
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 
-#EXTINF:-1 tvg-name="GETTV" tvg-id="get.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/gettv.png" group-title="ENTERTAINMENT",GETTV
+#EXTINF:-1 tvg-name="GETTV" tvg-id="getTV.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/gettv.png" group-title="ENTERTAINMENT",GETTV
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
 
 
@@ -3515,9 +3513,7 @@ https://fl3.moveonjoy.com/VICELAND/index.m3u8
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-name="4UV" tvg-id="65775e07dfed030008cb3f47" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/4uv.png" group-title="ENTERTAINMENT",4UV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-65775e07dfed030008cb3f47.m3u8
+
 
 #EXTINF:-1 tvg-name="BET ENTERTAlNMENT" tvg-id="5ca670f6593a5d78f0e85aed" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bet.png" group-title="ENTERTAINMENT",BET ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
@@ -3560,7 +3556,7 @@ https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIE" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4055,7 +4051,7 @@ http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-name="VIVA Cinema" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title="MOVIE",VIVA CINEMA
+#EXTINF:-1 tvg-id="VIVA Cinema.ph" tvg-name="VIVA Cinema" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title="MOVIE",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
@@ -4084,12 +4080,12 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-#EXTINF:-1 tvg-id="Rock.Extreme.ph" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVIE",ROCK ACTION PH
+#EXTINF:-1 tvg-id="ROCK ACTION HD.ph" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVIE",ROCK ACTION PH
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
 
-#EXTINF:-1 tvg-id="Celestial.Movies.Pinoy.ph" tvg-name="Celestial Movies Pinoy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVIE",CELESTIAL MOVIE PINOY
+#EXTINF:-1 tvg-id="Celestial Movies Pinoy.ph" tvg-name="Celestial Movies Pinoy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVIE",CELESTIAL MOVIE PINOY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -4141,20 +4137,20 @@ https://ddy6new.newkso.ru/ddy6/premium296/mono.m3u8|referer=https://newembedplay
 https://zekonew.newkso.ru/zeko/premium321/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="Lifetime HD - LIFEHD.us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png" group-title="MOVIE",Lifetime Network
+#EXTINF:-1 tvg-id="Lifetime Network US - Pacific Feed (361).us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png" group-title="MOVIE",Lifetime Network
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://windnew.newkso.ru/wind/premium326/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/lifetimemovienetwork.png" group-title="MOVIE",Lifetime Movies Network
+#EXTINF:-1 tvg-id="Lifetime Movies (East).us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/lifetimemovienetwork.png" group-title="MOVIE",Lifetime Movies Network
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://nfsnew.newkso.ru/nfs/premium389/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showtime.png" group-title="MOVIE",Showtime USA
+#EXTINF:-1 tvg-id="Showtime (East).us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showtime.png" group-title="MOVIE",Showtime USA
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://windnew.newkso.ru/wind/premium333/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Turner Classic Movies HD - TCMHD.us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tcm.png" group-title="MOVIE",TCM USA
+#EXTINF:-1 tvg-id="Turner Classic Movies.us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tcm.png" group-title="MOVIE",TCM USA
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://nfsnew.newkso.ru/nfs/premium644/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -4204,7 +4200,7 @@ https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="0000" tvg-name="0000" tvg-id="8420" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/outermax.png" group-title="MOVIE",OUTERMAX
+#EXTINF:-1 tvg-chno="0000" tvg-name="0000" tvg-id="Outer Max.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/outermax.png" group-title="MOVIE",OUTERMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 
@@ -4232,7 +4228,7 @@ https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="245" tvg-name="starz encore western" tvg-id="403951" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/starz.png" group-title="MOVIE",STARZ WEST
+#EXTINF:-1 tvg-chno="245" tvg-name="starz encore western" tvg-id="Starz (West).us" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/starz.png" group-title="MOVIE",STARZ WEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
 
@@ -4554,7 +4550,7 @@ https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 
 
 
-#EXTINF:-1 group-title="LOCAL" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/local.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="LOCAL" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/locallogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4811,7 +4807,7 @@ https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="COMEDY" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/comedy.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="COMEDY" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/comedylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4971,7 +4967,7 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 
 
 
-#EXTINF:-1 group-title="TRAVEL" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/travel.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="TRAVEL" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/travellogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/destinationamerica.png" group-title="TRAVEL",Destination America
@@ -4999,7 +4995,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
 
 
 
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/serieslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5007,8 +5003,9 @@ https://tunebox.shop/promo2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-#https://tunebox.space/‎ria.ts
+https://tunebox.space/‎ria.mpd
+#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
 
 
 
@@ -5671,7 +5668,7 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
 
 
-#EXTINF:-1 tvg-id="472.astro" ch-number="472" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/1000087994.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/payperview.png" group-title="PAYPERVIEW",472 FIRST
+#EXTINF:-1 tvg-id="472.astro" ch-number="472" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/1000087994.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/payperviewlogo.png" group-title="PAYPERVIEW",472 FIRST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 https://tunebox.space/‎astrofirst472.mp4
 
@@ -5824,7 +5821,7 @@ https://tunebox.space/‎incinema10.mp4
 
 
 
-#EXTINF:-1 group-title="PARANORMAL" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/paranormal.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="PARANORMAL" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/paranormallogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5848,15 +5845,15 @@ https://i.mjh.nz/.r/discovery-fast5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/ghosthunster.png" group-title="PARANORMAL", GHOST HUNTERS
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/ghosthunter.png" group-title="PARANORMAL", GHOST HUNTERS
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 
 
-#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/paranormal" group-title="PARANORMAL", REALITY TV PARANORMAL
+#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/paranormal.png" group-title="PARANORMAL", REALITY TV PARANORMAL
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 
 
-#EXTINF:-1 tvg-id="656538f8954b020008d389db" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/unexplainedzone" group-title="PARANORMAL", UNXPLAINED ZONE
+#EXTINF:-1 tvg-id="656538f8954b020008d389db" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/unexplainedzone.png" group-title="PARANORMAL", UNEXPLAINED ZONE
 https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 
 
@@ -5870,7 +5867,7 @@ https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 
 
 
-#EXTINF:-1 group-title="CRIME TV" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crime.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="CRIME TV" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/crimelogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5919,7 +5916,7 @@ https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 
 
-#EXTINF:-1 group-title="KIDS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="KIDS" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/kidslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -6349,7 +6346,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 
 
 
-#EXTINF:-1 group-title="SPORTS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1logo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SPORTS" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/sportslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -6383,15 +6380,6 @@ https://tunebox.space/‎arena2.mpd
 
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arenabola.png" group-title="SPORTS", ARENA BOLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTM3NTMzMDAsImlzcyI6IlZSIiwiZXhwIjoxNzUzODI4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTY2MGYxODQtMjZiNC00N2ZhLTkxZDItNTgwZmJkOWVkMDM0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjUwOTkifQ.YVXRtIsQl2JBxmdIuKVbu-nZZDIhJZmdeIenT_WAqhw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6400,15 +6388,6 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 https://l01.dp.sooka.my/5099/linear/index.mpd
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arenabola.png" group-title="SPORTS",ARENA BOLA 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTM3NTUyNDMsImlzcyI6IlZSIiwiZXhwIjoxNzUzODI4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTRiYjBjMDEtYjMwOS00YjVkLWE1OTctMTM0MDk3MWUzZDBmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjUxMDAifQ.3NWYqbNaLYhvQoD7U5iIIJ_JRaBKrsa5Wa38AVkPROE"}
@@ -6648,7 +6627,7 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="1007" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/live2",MEWATCH LIVE 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="1007" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/live2.png",MEWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
@@ -6659,7 +6638,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="837" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spl01",SPL01
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="837" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spl01.png",SPL01
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 
@@ -6670,7 +6649,7 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" ch-number="838" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spl02",SPL02
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" ch-number="838" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spl02.png",SPL02
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 
@@ -6691,7 +6670,7 @@ https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|referer=https://newembedplay
 
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/cbssportgolazo.png" group-title="SPORTS",CBS Sports Golazo
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/golazo.png" group-title="SPORTS",CBS Sports Golazo
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium910/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -6722,7 +6701,7 @@ https://nfsnew.newkso.ru/nfs/premium288/mono.m3u8|referer=https://newembedplay.x
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/foxcricket.png" group-title="SPORTS",Fox Cricket
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/foxsports.png" group-title="SPORTS",Fox Cricket
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -7739,7 +7718,7 @@ https://windnew.newkso.ru/wind/premium274/mono.m3u8|referer=https://veplay.top/&
 
 
 
-#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -8316,7 +8295,7 @@ https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
 ###
 
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number="7225" tvg-name="24/7 RICK AND MORTY" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rickandmorty.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/247logo.png" group-title="24-7",24/7 RICK AND MORTY
+#EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number="7225" tvg-name="24/7 RICK AND MORTY" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rickandmorty.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/247logo.png" group-title="24-7",24/7 RICK AND MORTY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 http://cord-cutter.net:8080/live/23290078/13941299/66302.ts
 
@@ -9233,7 +9212,7 @@ http://cord-cutter.net:8080/live/23290078/13941299/215433.ts
 
 
 
-#EXTINF:-1 group-title="NEWS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="NEWS" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/newslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -9501,7 +9480,7 @@ https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcworldnews.png" group-title="NEWS",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/bbcnews.png" group-title="NEWS",BBC News
 https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
 
@@ -9764,7 +9743,7 @@ https://jmp2.uk/plu-5bdce04659ee03633e758130.m3u8
 
 
 
-#EXTINF:-1 group-title="LIFESTYLE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifestylelogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="LIFESTYLE" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/lifestylelogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -10019,7 +9998,7 @@ MUSIC
 
 
 
-#EXTINF:-1 group-title="MUSIC" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/musiclogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MUSIC" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/musiclogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -10409,7 +10388,7 @@ https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 
 
 
-#EXTINF:-1 group-title="REALITY TV" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/realitytv.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="REALITY TV" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -10424,19 +10403,19 @@ https://i.mjh.nz/.r/10-projectrunway.m3u8
 
 
 
-#EXTINF:-1 tvg-id="64dab1f835425100080e1e7b" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/realitytv.png" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1731838338924.png" group-title="REALITY TV", ACAPULCO SHORE
+#EXTINF:-1 tvg-id="64dab1f835425100080e1e7b" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/realitytv.png" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/acapulcoshore.png" group-title="REALITY TV", ACAPULCO SHORE
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 
-#EXTINF:-1 tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="REALITY TV", ALL REALITY BY WE TV
+#EXTINF:-1 tvg-id="5e82530945600e0007ca076c" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/wetv.png" group-title="REALITY TV", ALL REALITY BY WE TV
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 
-#EXTINF:-1 tvg-id="654932fa4d6d8f00084c4723" tvg-logo="https://images.pluto.tv/channels/654932fa4d6d8f00084c4723/colorLogoPNG.png" group-title="REALITY TV", BAD GIRLS CLUB
+#EXTINF:-1 tvg-id="654932fa4d6d8f00084c4723" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/badgirlclub.png" group-title="REALITY TV", BAD GIRLS CLUB
 https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 
-#EXTINF:-1 tvg-id="60a3d889a5b3690008dc7fe8" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="REALITY TV", BAR RESCUE
+#EXTINF:-1 tvg-id="60a3d889a5b3690008dc7fe8" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/barrescue.png" group-title="REALITY TV", BAR RESCUE
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 
-#EXTINF:-1 tvg-id="5d51e2bceca5b4b2c0e06c50" tvg-logo="https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG_1731835399139.png" group-title="REALITY TV", BLACK INK CREW
+#EXTINF:-1 tvg-id="5d51e2bceca5b4b2c0e06c50" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/blackinkcrew.png" group-title="REALITY TV", BLACK INK CREW
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
 
 
@@ -10480,7 +10459,7 @@ https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 #EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cops.png" group-title="CRIME TV", COPS
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 
-#EXTINF:-1 tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/archase.png" group-title="CRIME TV", CAR CHASE
+#EXTINF:-1 tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/carchase.png" group-title="CRIME TV", CAR CHASE
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
 
@@ -10492,203 +10471,203 @@ https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
 
 
-#EXTINF:-1 tvg-id="627d355aa95efd00077afcc7" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" group-title="REALITY TV", CHEATERS
+#EXTINF:-1 tvg-id="627d355aa95efd00077afcc7" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cheaters.png" group-title="REALITY TV", CHEATERS
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 
 
 
-#EXTINF:-1 tvg-id="651f239d9c7aeb0008286823" tvg-logo="https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png" group-title="REALITY TV", DATING DISASTERS
+#EXTINF:-1 tvg-id="651f239d9c7aeb0008286823" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/datingdisaster.png" group-title="REALITY TV", DATING DISASTERS
 https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
 
-#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="REALITY TV", DOG THE BOUNTY HUNTER
+#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/dogthebountyhunter.png" group-title="REALITY TV", DOG THE BOUNTY HUNTER
 https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 
 
-#EXTINF:-1 tvg-id="609bfa51fbecc1000733152e" tvg-logo="https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png" group-title="REALITY TV", JERSEY SHORE
+#EXTINF:-1 tvg-id="609bfa51fbecc1000733152e" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/jerseyshore.png" group-title="REALITY TV", JERSEY SHORE
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 
-#EXTINF:-1 tvg-id="5d51ddf0369acdb278dfb05e" tvg-logo="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="REALITY TV", LOVE & HIP HOP
+#EXTINF:-1 tvg-id="5d51ddf0369acdb278dfb05e" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/love&hiphop.png" group-title="REALITY TV", LOVE & HIP HOP
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 
-#EXTINF:-1 tvg-id="6565436c9d5ac4000822f552" tvg-logo="https://images.pluto.tv/channels/6565436c9d5ac4000822f552/colorLogoPNG.png" group-title="REALITY TV", MEDICAL INCREDIBLE
+#EXTINF:-1 tvg-id="6565436c9d5ac4000822f552" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/medicalincredible.png" group-title="REALITY TV", MEDICAL INCREDIBLE
 https://jmp2.uk/plu-6565436c9d5ac4000822f552.m3u8
 
-#EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png" group-title="REALITY TV", MILLION DOLLAR LISTING VAULT
+#EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/milliondollarlistingvault.png" group-title="REALITY TV", MILLION DOLLAR LISTING VAULT
 https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
 
-#EXTINF:-1 tvg-id="5ca6899a37b88b269472ea4b" tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png" group-title="REALITY TV", MTV DATING
+#EXTINF:-1 tvg-id="5ca6899a37b88b269472ea4b" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/mtvdating.png" group-title="REALITY TV", MTV DATING
 https://jmp2.uk/plu-5ca6899a37b88b269472ea4b.m3u8
 
-#EXTINF:-1 tvg-id="656538bb635c3c0008695660" tvg-logo="https://images.pluto.tv/channels/656538bb635c3c0008695660/colorLogoPNG.png" group-title="REALITY TV", PERFORM BY LIFETIME
+#EXTINF:-1 tvg-id="656538bb635c3c0008695660" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/performbylifetime.png" group-title="REALITY TV", PERFORM BY LIFETIME
 https://jmp2.uk/plu-656538bb635c3c0008695660.m3u8
 
-#EXTINF:-1 tvg-id="6565413e4261ca0008215320" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png" group-title="REALITY TV", PICKERS & PAWN
+#EXTINF:-1 tvg-id="6565413e4261ca0008215320" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/picker&pawn.png" group-title="REALITY TV", PICKERS & PAWN
 https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 
-#EXTINF:-1 tvg-id="5cabdf1437b88b26947346b2" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="REALITY TV", REALITY TV BACKCOUNTRY
+#EXTINF:-1 tvg-id="5cabdf1437b88b26947346b2" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvbackcountry.png" group-title="REALITY TV", REALITY TV BACKCOUNTRY
 https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 
-#EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="REALITY TV", REALITY TV CARS
+#EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvcars.png" group-title="REALITY TV", REALITY TV CARS
 https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
 
-#EXTINF:-1 tvg-id="5d8beeb39b5d5d5f8c672530" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="REALITY TV", REALITY TV LIVES
+#EXTINF:-1 tvg-id="5d8beeb39b5d5d5f8c672530" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvlives.png" group-title="REALITY TV", REALITY TV LIVES
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5d8bf0b06d2d855ee15115e3" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="REALITY TV", REALITY TV REALITY
+#EXTINF:-1 tvg-id="5d8bf0b06d2d855ee15115e3" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvreality.png" group-title="REALITY TV", REALITY TV REALITY
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
 
-#EXTINF:-1 tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" group-title="REALITY TV", QUEENS OF REALITY
+#EXTINF:-1 tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/queensofreality.png" group-title="REALITY TV", QUEENS OF REALITY
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
-#EXTINF:-1 tvg-id="6549316d2c1d330008631496" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="REALITY TV", REAL HOUSEWIVES VAULT
+#EXTINF:-1 tvg-id="6549316d2c1d330008631496" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realhousewivesvault.png" group-title="REALITY TV", REAL HOUSEWIVES VAULT
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
 
-#EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="REALITY TV", RESCUE 911
+#EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/rescue911.png" group-title="REALITY TV", RESCUE 911
 https://jmp2.uk/plu-5f21e831e9fe730007706acb.m3u8
 
-#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="REALITY TV", SPIKE OUTDOORS
+#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spikeoutdoor.png" group-title="REALITY TV", SPIKE OUTDOORS
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
-#EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="REALITY TV", SPIKE REALITY TV
+#EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spike.png" group-title="REALITY TV", SPIKE REALITY TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 
-#EXTINF:-1 tvg-id="6127e12ed140e900077e7b6f" tvg-logo="https://images.pluto.tv/channels/6127e12ed140e900077e7b6f/colorLogoPNG.png" group-title="REALITY TV", TEEN MOM
+#EXTINF:-1 tvg-id="6127e12ed140e900077e7b6f" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/teenmom.png" group-title="REALITY TV", TEEN MOM
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 
-#EXTINF:-1 tvg-id="636adc255bcf470007d6e0e2" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" group-title="REALITY TV", TOP GEAR
+#EXTINF:-1 tvg-id="636adc255bcf470007d6e0e2" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/topgear.png" group-title="REALITY TV", TOP GEAR
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
 
-#EXTINF:-1 tvg-id="65c69bf23ef47d0008583967" tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png" group-title="REALITY TV", TOUGH JOBS
+#EXTINF:-1 tvg-id="65c69bf23ef47d0008583967" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/toughjob.png" group-title="REALITY TV", TOUGH JOBS
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5d71561df6f2e6d0b6493bf5" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="REALITY TV", VH1 HIP HOP Family
+#EXTINF:-1 tvg-id="5d71561df6f2e6d0b6493bf5" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/hiphopfamily.png" group-title="REALITY TV", VH1 HIP HOP Family
 https://jmp2.uk/plu-5d71561df6f2e6d0b6493bf5.m3u8
 
-#EXTINF:-1 tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="REALITY TV", VH1 I LOVE REALITY
+#EXTINF:-1 tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/ilovereality.png" group-title="REALITY TV", VH1 I LOVE REALITY
 https://jmp2.uk/plu-5d7154fa8326b6ce4ec31f2e.m3u8
 
 
 
-#EXTINF:-1 tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="REALITY TV", FEAR FACTOR
+#EXTINF:-1 tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/fearfactor.png" group-title="REALITY TV", FEAR FACTOR
 https://jmp2.uk/plu-588128d17d64bc0d0f385c34.m3u8
 
-#EXTINF:-1 tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="REALITY TV", GORDON RAMSAY'S HELL'S KITCHEN
+#EXTINF:-1 tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/hellkitchen.png" group-title="REALITY TV", GORDON RAMSAY'S HELL'S KITCHEN
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
 
-#EXTINF:-1 tvg-id="60807fd5db701400078219c2" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG_1731836032181.png" group-title="REALITY TV", INK MASTER
+#EXTINF:-1 tvg-id="60807fd5db701400078219c2" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/inkmaster.png" group-title="REALITY TV", INK MASTER
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 
-#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="REALITY TV", REALITY TV COMPETITION
+#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvcompetition.png" group-title="REALITY TV", REALITY TV COMPETITION
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 
-#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="REALITY TV", SURVIVOR
+#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/survivor.png" group-title="REALITY TV", SURVIVOR
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 
-#EXTINF:-1 tvg-id="5f21e8a6e2f12b000755afdb" tvg-logo="https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="REALITY TV", THE AMAZING RACE
+#EXTINF:-1 tvg-id="5f21e8a6e2f12b000755afdb" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/theamazingrace.png" group-title="REALITY TV", THE AMAZING RACE
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 
-#EXTINF:-1 tvg-id="5d48685da7e9f476aa8a1888" tvg-logo="https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="REALITY TV", THE CHALLENGE
+#EXTINF:-1 tvg-id="5d48685da7e9f476aa8a1888" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/thechallenge.png" group-title="REALITY TV", THE CHALLENGE
 https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
 
-#EXTINF:-1 tvg-id="654931d753fc97000838fe55" tvg-logo="https://images.pluto.tv/channels/654931d753fc97000838fe55/colorLogoPNG.png" group-title="REALITY TV", TOP CHEF VAULT
+#EXTINF:-1 tvg-id="654931d753fc97000838fe55" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/topchefvault.png" group-title="REALITY TV", TOP CHEF VAULT
 https://jmp2.uk/plu-654931d753fc97000838fe55.m3u8
 
-#EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="REALITY TV", BUZZR
+#EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/buzzr.png" group-title="REALITY TV", BUZZR
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 
-#EXTINF:-1 tvg-id="5e9debf8c881310007d7bde1" tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="REALITY TV", DEAL OR NO DEAL
+#EXTINF:-1 tvg-id="5e9debf8c881310007d7bde1" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/dealornodeal.png" group-title="REALITY TV", DEAL OR NO DEAL
 https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
 
-#EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="REALITY TV", FAMILY FEUD CLASSIC
+#EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/familyfeudclassic.png" group-title="REALITY TV", FAMILY FEUD CLASSIC
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
 
-#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="REALITY TV", GAME SHOW CENTRAL
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/gameshowcentral.png" group-title="REALITY TV", GAME SHOW CENTRAL
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 
-#EXTINF:-1 tvg-id="64387bb1af2bd90008978a2b" tvg-logo="https://images.pluto.tv/channels/64387bb1af2bd90008978a2b/colorLogoPNG_1731835235355.png" group-title="REALITY TV", HOLLYWOOD SQUARES
+#EXTINF:-1 tvg-id="64387bb1af2bd90008978a2b" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/hollywoodsquare.png" group-title="REALITY TV", HOLLYWOOD SQUARES
 https://jmp2.uk/plu-64387bb1af2bd90008978a2b.m3u8
 
-#EXTINF:-1 tvg-id="6267352efcf21c0007c76642" tvg-logo="https://images.pluto.tv/channels/6267352efcf21c0007c76642/colorLogoPNG.png" group-title="REALITY TV", LET'S MAKE A DEAL
+#EXTINF:-1 tvg-id="6267352efcf21c0007c76642" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/letsmakeadeal.png" group-title="REALITY TV", LET'S MAKE A DEAL
 https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
 
-#EXTINF:-1 tvg-id="64387c25e0789d000849f62e" tvg-logo="https://images.pluto.tv/channels/64387c25e0789d000849f62e/colorLogoPNG.png" group-title="REALITY TV", MORE TV GAME SHOWS
+#EXTINF:-1 tvg-id="64387c25e0789d000849f62e" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/moretvgameshows.png" group-title="REALITY TV", MORE TV GAME SHOWS
 https://jmp2.uk/plu-64387c25e0789d000849f62e.m3u8
 
-#EXTINF:-1 tvg-id="6036e7c385749f00075dbd3b" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" group-title="REALITY TV", REALITY TV GAME SHOWS
+#EXTINF:-1 tvg-id="6036e7c385749f00075dbd3b" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvgameshows.png" group-title="REALITY TV", REALITY TV GAME SHOWS
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
 
-#EXTINF:-1 tvg-id="649ddbfb6f29ec000874ca9e" tvg-logo="https://images.pluto.tv/channels/649ddbfb6f29ec000874ca9e/colorLogoPNG.png" group-title="REALITY TV", SUPERMARKET SWEEP
+#EXTINF:-1 tvg-id="649ddbfb6f29ec000874ca9e" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/supermarketsweep.png" group-title="REALITY TV", SUPERMARKET SWEEP
 https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
 
-#EXTINF:-1 tvg-id="643f035d5a0cd50008361534" tvg-logo="https://images.pluto.tv/channels/643f035d5a0cd50008361534/colorLogoPNG.png" group-title="REALITY TV", THE PRICE IS RIGHT
+#EXTINF:-1 tvg-id="643f035d5a0cd50008361534" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvthepriceisright.png" group-title="REALITY TV", THE PRICE IS RIGHT
 https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
 
-#EXTINF:-1 tvg-id="5f7791b8372da90007fd45e6" tvg-logo="https://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png" group-title="REALITY TV", THE PRICE IS RIGHT: THE BARKER ERA
+#EXTINF:-1 tvg-id="5f7791b8372da90007fd45e6" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/thebarkerera.png" group-title="REALITY TV", THE PRICE IS RIGHT: THE BARKER ERA
 https://jmp2.uk/plu-5f7791b8372da90007fd45e6.m3u8
 
 
-#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="REALITY TV", AMERICA'S TEST KITCHEN
+#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/americatestkitchen.png" group-title="REALITY TV", AMERICA'S TEST KITCHEN
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 
-#EXTINF:-1 tvg-id="615b8ec39e878900073f419a" tvg-logo="https://images.pluto.tv/channels/615b8ec39e878900073f419a/colorLogoPNG.png" group-title="REALITY TV", ANTIQUES ROAD TRIP
+#EXTINF:-1 tvg-id="615b8ec39e878900073f419a" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/antiqueroadtrip.png" group-title="REALITY TV", ANTIQUES ROAD TRIP
 https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
 
-#EXTINF:-1 tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="REALITY TV", ANTIQUES ROADSHOW UK
+#EXTINF:-1 tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/antiquesroadshow.png" group-title="REALITY TV", ANTIQUES ROADSHOW UK
 https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
 
-#EXTINF:-1 tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="REALITY TV", BBC FOOD
+#EXTINF:-1 tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/bbcfood.png" group-title="REALITY TV", BBC FOOD
 https://jmp2.uk/plu-5fb5844bf5514d0007945bda.m3u8
 
-#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="REALITY TV", BBC HOME & GARDEN
+#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/bbchome&garden.png" group-title="REALITY TV", BBC HOME & GARDEN
 https://jmp2.uk/plu-5fb5836fe745b600070fc743.m3u8
 
-#EXTINF:-1 tvg-id="65654230c917a5000844ce96" tvg-logo="https://images.pluto.tv/channels/65654230c917a5000844ce96/colorLogoPNG.png" group-title="REALITY TV", HOME CRASHERS
+#EXTINF:-1 tvg-id="65654230c917a5000844ce96" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/honecrashers.png" group-title="REALITY TV", HOME CRASHERS
 https://jmp2.uk/plu-65654230c917a5000844ce96.m3u8
 
-#EXTINF:-1 tvg-id="6334a3355471ee0007609e21" tvg-logo="https://images.pluto.tv/channels/6334a3355471ee0007609e21/colorLogoPNG-1730481800473.png" group-title="REALITY TV", HOME FOR THE HOLIDAYS
+#EXTINF:-1 tvg-id="6334a3355471ee0007609e21" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/homefortheholidays.png" group-title="REALITY TV", HOME FOR THE HOLIDAYS
 https://jmp2.uk/plu-6334a3355471ee0007609e21.m3u8
 
-#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="REALITY TV", HOME.MADE.NATION
+#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/homemadenation.png" group-title="REALITY TV", HOME.MADE.NATION
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 
-#EXTINF:-1 tvg-id="66ff0cf663292d0008320cf8" tvg-logo="https://images.pluto.tv/channels/66ff0cf663292d0008320cf8/colorLogoPNG.png" group-title="REALITY TV", NO RESERVATIONS
+#EXTINF:-1 tvg-id="66ff0cf663292d0008320cf8" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/noreservations.png" group-title="REALITY TV", NO RESERVATIONS
 https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
 
-#EXTINF:-1 tvg-id="636c2b3c55d2e700074105c4" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png" group-title="REALITY TV", PBS ANTIQUES ROADSHOW
+#EXTINF:-1 tvg-id="636c2b3c55d2e700074105c4" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/pbsantiquesroadshow.png" group-title="REALITY TV", PBS ANTIQUES ROADSHOW
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 
-#EXTINF:-1 tvg-id="66e0b265dd2d690008c5496b" tvg-logo="https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG.png" group-title="REALITY TV", PLACES & SPACES
+#EXTINF:-1 tvg-id="66e0b265dd2d690008c5496b" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/place&space.png" group-title="REALITY TV", PLACES & SPACES
 https://jmp2.uk/plu-66e0b265dd2d690008c5496b.m3u8
 
-#EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="REALITY TV", REALITY TV FOOD
+#EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvfood.png" group-title="REALITY TV", REALITY TV FOOD
 https://jmp2.uk/plu-5877ac8cb791f4eb4a140d81.m3u8
 
-#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="REALITY TV", REALITY TV HOME
+#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/realitytvhome.png" group-title="REALITY TV", REALITY TV HOME
 https://jmp2.uk/plu-6022bd17849c620007f43ae0.m3u8
 
-#EXTINF:-1 tvg-id="6565430c9d5ac4000822f508" tvg-logo="https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png" group-title="REALITY TV", RUSTIC RETREATS
+#EXTINF:-1 tvg-id="6565430c9d5ac4000822f508" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/rusticretreats.png" group-title="REALITY TV", RUSTIC RETREATS
 https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
 
-#EXTINF:-1 tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="https://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" group-title="REALITY TV", TBN
+#EXTINF:-1 tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tbn.png" group-title="REALITY TV", TBN
 https://jmp2.uk/plu-5d486b2eeddd9576d66f9066.m3u8
 
-#EXTINF:-1 tvg-id="64dab9df3d48f40008868091" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="REALITY TV", THE JAMIE OLIVER CHANNEL
+#EXTINF:-1 tvg-id="64dab9df3d48f40008868091" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/jamieoliverchannel.png" group-title="REALITY TV", THE JAMIE OLIVER CHANNEL
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 
-#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="REALITY TV", THIS OLD HOUSE
+#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/thisoldhouse.png" group-title="REALITY TV", THIS OLD HOUSE
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 
-#EXTINF:-1 tvg-id="6452c9465a0cd50008654fc1" tvg-logo="https://images.pluto.tv/channels/6452c9465a0cd50008654fc1/colorLogoPNG.png" group-title="REALITY TV", THIS OLD HOUSE MAKERS CHANNEL
+#EXTINF:-1 tvg-id="6452c9465a0cd50008654fc1" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/thisoldhousemakerschannel.png" group-title="REALITY TV", THIS OLD HOUSE MAKERS CHANNEL
 https://jmp2.uk/plu-6452c9465a0cd50008654fc1.m3u8
 
-#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="REALITY TV", TINY HOUSE NATION
+#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tinyhousenation.png" group-title="REALITY TV", TINY HOUSE NATION
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
 
-#EXTINF:-1 tvg-id="656542ae4261ca00082154a8" tvg-logo="https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png" group-title="REALITY TV", ULTIMATE BUILDS
+#EXTINF:-1 tvg-id="656542ae4261ca00082154a8" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/ultimatebuilds.png" group-title="REALITY TV", ULTIMATE BUILDS
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 
 
@@ -10743,7 +10722,7 @@ https://ddy6new.newkso.ru/ddy6/premium654/mono.m3u8|referer=https://newembedplay
 
 
 
-#EXTINF:-1 group-title="TALKSHOW" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/learning.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="TALKSHOW" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/talkshowlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/learning.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/own.png" group-title="TALKSHOW"",OPRAH WINFREY NETWORK
@@ -10784,7 +10763,7 @@ https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 
 
 
-#EXTINF:-1 group-title="LEARNING" group-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/learning.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="LEARNING" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/learninglogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -10827,7 +10806,7 @@ https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 
 
-#EXTINF:-1 group-title="OTHER" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/west.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="OTHER" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/otherlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/telemundo.png" group-title="OTHER",Telemundo
@@ -11065,7 +11044,7 @@ https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://newembedplay.
 https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="LFC TV HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/liverpooltv.png" group-title="SPORTS",LIVERPOOL TV
+#EXTINF:-1 tvg-id="LFC TV HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/lfctv.png" group-title="SPORTS",LIVERPOOL TV
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -11106,7 +11085,7 @@ https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8|referer=https://newembedplay
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/fashiontv.png" group-title="LIFESTYLE",Fashion TV
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/fashiontv.png" group-title="LIFESTYLE",Fashion TV
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -11119,7 +11098,7 @@ https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8|referer=https://newembedplay
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-id="Utsav Gold HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/gold.png" group-title="COMEDY",Gold UK
+#EXTINF:-1 tvg-id="Utsav Gold HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/goldtv.png" group-title="COMEDY",Gold UK
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -11496,7 +11475,7 @@ https://tunebox.shop/promo2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/meiahmoviechannel.png" tvg-id="Mei Ah Movie Channel.hk",MEI AH MOVIE CHANNEL 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/meiah.png" tvg-id="Mei Ah Movie Channel.hk",MEI AH MOVIE CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 
@@ -11506,7 +11485,7 @@ http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvbjade.png" tvg-id="CH-17",TVB J1
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjade.png" tvg-id="CH-17",TVB J1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 
@@ -11538,10 +11517,6 @@ http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tvbs.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvbs.png",TVBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-id="tvbsnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbs.png",TVBS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
@@ -11564,7 +11539,7 @@ http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-id="ettvnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ettvnews.png",ETTV NEWS
+#EXTINF:-1 group-title="NEWS" tvg-id="ettvnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ettv.png",ETTV NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
@@ -11637,7 +11612,7 @@ http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 RADlO
 #####
 
-#EXTINF:-1 tvg-id="852.astro" tvg-name="HITZ" ch-number="852" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hitzfm.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/radiologo.png" group-title="RADlO",HITZ FM
+#EXTINF:-1 tvg-id="852.astro" tvg-name="HITZ" ch-number="852" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hitzfm.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/radiologo.png" group-title="RADlO",HITZ FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -11838,6 +11813,283 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="RADlO" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rtbnasional.png",RTB NASIONAL
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
