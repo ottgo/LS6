@@ -3302,13 +3302,13 @@ https://tunebox.shop/promo2
 
 
 
-#EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.English.distro" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/mediacorpenglish.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT ENGLISH
+#EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.English.distro" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/mediacorpenglish.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT ENGLISH
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.Tamil.distro" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/mediacorptamil.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT TAMIL
+#EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.Tamil.distro" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/mediacorptamil.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT TAMIL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.Chinese.distro" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/mediacorpchinese.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT CHINESE
+#EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.Chinese.distro" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/mediacorpchinese.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT CHINESE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
@@ -3726,11 +3726,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="galaxy.id" tvg-name="148 Galaxy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/galaxy.png" group-title="MOVIE",GALAXY
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="148 Galaxy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/galaxy.png" group-title="MOVIE",GALAXY
 https://tunebox.space/‎galaxy.ts
 
 
-#EXTINF:-1 tvg-id="galaxy.id" tvg-name="148 Galaxy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/galaxy.png" group-title="MOVIE",GALAXY PREMIUM
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="148 Galaxy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/galaxypremium.png" group-title="MOVIE",GALAXY PREMIUM
 https://tunebox.space/galaxypremium.ts
 
 
@@ -5004,7 +5004,17 @@ https://tunebox.shop/promo2
 
 
 #EXTINF:-1 ch-number="104" group-title="SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ria.png" tvg-id="104.astro",RIA
-https://tunebox.space/‎ria.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#https://tunebox.space/‎ria.ts
+
+
+
+
+
+
 
 
 
@@ -5838,15 +5848,15 @@ https://i.mjh.nz/.r/discovery-fast5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="PARANORMAL", GHOST HUNTERS
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/ghosthunster.png" group-title="PARANORMAL", GHOST HUNTERS
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 
 
-#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="PARANORMAL", REALITY TV PARANORMAL
+#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/paranormal" group-title="PARANORMAL", REALITY TV PARANORMAL
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 
 
-#EXTINF:-1 tvg-id="656538f8954b020008d389db" tvg-logo="https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png" group-title="PARANORMAL", UNXPLAINED ZONE
+#EXTINF:-1 tvg-id="656538f8954b020008d389db" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/unexplainedzone" group-title="PARANORMAL", UNXPLAINED ZONE
 https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 
 
@@ -6373,6 +6383,15 @@ https://tunebox.space/‎arena2.mpd
 
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arenabola.png" group-title="SPORTS", ARENA BOLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTM3NTMzMDAsImlzcyI6IlZSIiwiZXhwIjoxNzUzODI4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTY2MGYxODQtMjZiNC00N2ZhLTkxZDItNTgwZmJkOWVkMDM0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjUwOTkifQ.YVXRtIsQl2JBxmdIuKVbu-nZZDIhJZmdeIenT_WAqhw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6381,6 +6400,15 @@ https://tunebox.space/‎arena2.mpd
 https://l01.dp.sooka.my/5099/linear/index.mpd
 
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arenabola.png" group-title="SPORTS",ARENA BOLA 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTM3NTUyNDMsImlzcyI6IlZSIiwiZXhwIjoxNzUzODI4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTRiYjBjMDEtYjMwOS00YjVkLWE1OTctMTM0MDk3MWUzZDBmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjUxMDAifQ.3NWYqbNaLYhvQoD7U5iIIJ_JRaBKrsa5Wa38AVkPROE"}
@@ -6615,25 +6643,14 @@ https://tunebox.space/‎premiersport.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ S I N G A P O R E ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="1006" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ppvsg.png",MEWATCH LIVE 1 
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="1006" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/live1.png",MEWATCH LIVE 1 
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="1007" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ppvsg.png",MEWATCH LIVE 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="1007" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/live2",MEWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-
-
-#EXTINF:-1 tvg-id="Live 5.sg" tvg-name="Local.Programming.Dummy.us" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ppvsg.png",MEWATCH LIVE 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="LIVE 6.sg" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ppvsg.png",MEWATCH LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
 
 
@@ -6642,7 +6659,7 @@ https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="837" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ppvsg.png",SPL01
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" tvg-chno="837" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spl01",SPL01
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 
@@ -6653,7 +6670,7 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" ch-number="838" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ppvsg.png",SPL02
+#EXTINF:-1 group-title="SPORTS" tvg-id="Local.Programming.Dummy.us" ch-number="838" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/spl02",SPL02
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 
@@ -6663,7 +6680,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/cbssport.png" group-title="SPORTS",CBS Sports Network (CBSSN)
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cbssports.png" group-title="SPORTS",CBS Sports Network (CBSSN)
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium308/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -6678,7 +6695,7 @@ https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|referer=https://newembedplay
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium910/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",Fox Sports 1 USA
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/fox.png" group-title="SPORTS",Fox Sports 1 USA
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium39/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -6742,13 +6759,13 @@ https://zekonew.newkso.ru/zeko/premium405/mono.m3u8|referer=https://newembedplay
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium777/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/ptvsport.png" group-title="SPORTS",PTV Sports
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/ptvsports.png" group-title="SPORTS",PTV Sports
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium450/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/espnnetwork.png" group-title="SPORTS",SEC Network USA
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/secnetwork.png" group-title="SPORTS",SEC Network USA
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium385/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -6760,15 +6777,15 @@ https://zekonew.newkso.ru/zeko/premium346/mono.m3u8|referer=https://newembedplay
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium598/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="httpshttps://raw.githubusercontent.com/ottgo/icon/refs/heads/main/wwenetwork.png" group-title="SPORTS",WWE Network
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/wwenetwork.png" group-title="SPORTS",WWE Network
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://windnew.newkso.ru/wind/premium376/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvasport.png" group-title="SPORTS",TVA Sports
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvasports.png" group-title="SPORTS",TVA Sports
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/nbc10.png" group-title="SPORTS",NBC 10
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/nbc10.png" group-title="SPORTS",NBC 10
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -10460,10 +10477,10 @@ https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/cops.png" group-title="CRIME TV", COPS
+#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cops.png" group-title="CRIME TV", COPS
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 
-#EXTINF:-1 tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/carchase.png" group-title="CRIME TV", CAR CHASE
+#EXTINF:-1 tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/archase.png" group-title="CRIME TV", CAR CHASE
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
 
@@ -10923,12 +10940,12 @@ https://windnew.newkso.ru/wind/premium354/mono.m3u8|referer=https://newembedplay
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium355/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/e!.png" group-title="LOCAL",E! Entertainment Television
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/e!.png" group-title="LOCAL",E! Entertainment Television
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://zekonew.newkso.ru/zeko/premium315/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="E4 HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/e4.png" group-title="LOCAL",E4 Channel
+#EXTINF:-1 tvg-id="E4 HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/e4.png" group-title="LOCAL",E4 Channel
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium363/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -11048,7 +11065,7 @@ https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://newembedplay.
 https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="LFC TV HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/liverpooltv.png" group-title="SPORTS",LIVERPOOL TV
+#EXTINF:-1 tvg-id="LFC TV HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/liverpooltv.png" group-title="SPORTS",LIVERPOOL TV
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -11102,7 +11119,7 @@ https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8|referer=https://newembedplay
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-id="Utsav Gold HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/gold.png" group-title="COMEDY",Gold UK
+#EXTINF:-1 tvg-id="Utsav Gold HD.uk" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/gold.png" group-title="COMEDY",Gold UK
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -11475,21 +11492,21 @@ http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbnews.png" tvg-id="CH-1",TVB NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvbs.png" tvg-id="CH-1",TVB NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/meiahmoviechannel.png" tvg-id="Mei Ah Movie Channel.hk",MEI AH MOVIE CHANNEL 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/meiahmoviechannel.png" tvg-id="Mei Ah Movie Channel.hk",MEI AH MOVIE CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbdrama.png" tvg-id="Chinese Drama Channel.hk",CHINESE DRAMA CHANNEL 
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/chinesedrama.png" tvg-id="Chinese Drama Channel.hk",CHINESE DRAMA CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbj1.png" tvg-id="CH-17",TVB J1
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvbjade.png" tvg-id="CH-17",TVB J1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 
@@ -11517,25 +11534,11 @@ http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="NEWS" tvg-id="ctiasia.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ctiasia.png",CTI ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="klt.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/klt.png",KLT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tvbs.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbs.png",TVBS
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tvbs.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvbs.png",TVBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 
